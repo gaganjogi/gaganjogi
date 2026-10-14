@@ -87,7 +87,7 @@ const gagan = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaganjogi&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gaganjogi&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" />
 </p>
 
 <p align="center">
